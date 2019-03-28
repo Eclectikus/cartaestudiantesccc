@@ -130,11 +130,11 @@ Estamos lejos de ser capaces de modelar un sistema como el del clima terrestre c
 
 Y la cosa empeora a largo plazo (miles o decenas de años, millones de años...). Por ejemplo *se sabe* que padeceremos otra glaciación, incluso hay diferentes líneas de evidencia que apuntan a que estas *edades de hielo* están relacionadas con variaciones en la órbita de la Tierra (*ciclos de Milanković*), que producen cambios en la cantidad de energía que nos llega del sol. Sin embargo, de ahí a predecirlas hay un trecho, y a comprobar nuestra predicción dentro de 1000, 10000 0 50000 años, otro, éste además insalvable.
 
-```{r Milankovitch, echo=FALSE, fig.align='center', fig.cap="Los ciclos de Milankovitch un ejemplo de mecanismo conocido relacionado con la alternancia de periodos cálidos y gélidos del planeta Tierra", out.width=420}
+```{r Milankovitch, echo=FALSE, fig.align='center', fig.cap="Los ciclos de Milankovitch, un ejemplo de mecanismo conocido relacionado con la alternancia de periodos cálidos y gélidos del planeta Tierra", out.width=420}
 knitr::include_graphics("figure/Milankovitch.png")
 ```
 
-Pero no me mal entendáis, muchas otras ciencias son bien dignas sin hacer predicciones, o haciendo pronósticos poco precisos, o vagos, o incluso fallando miserablemente. Les pasa a todas las Ciencias Sociales, y les pasa y les ha pasado a muchas áreas de la biología, la geología, la química o incluso de la física. No poder hacer predicciones no elimina la validez de una ciencia. Simular que las predicciones son fiables sí. Y eso está menos relacionado con la Ciencia y más relacionado con la contaminación política de la que hablaremos en el siguiente punto.
+Pero no me mal entendáis, muchas otras ciencias son bien dignas sin hacer predicciones, o haciendo pronósticos poco precisos, o especulativos, o incluso fallando miserablemente. Les pasa a todas las Ciencias Sociales, y les pasa y les ha pasado a muchas áreas de la biología, la geología, la química o incluso de la física. No poder hacer predicciones no elimina la validez de una ciencia. Simular que las predicciones son fiables sí. Y eso está menos relacionado con *la Ciencia* y más relacionado con la *contaminación política* de la que hablaremos en el siguiente punto.
 
 Por tanto las críticas a algunas posiciones del debate no significan en modo alguno una crítica general a la *Climatología*, ni siquiera una deslegitimación del estudio del `Cambio Climático`. Es más, habría que añadir que gracias al inmenso desarrollo tecnológico realizado durante el último siglo, especialmente gracias a la teledetección y a la enorme (y sin embargo creciente) capacidad de cálculo de nuestros ordenadores, añadido al gran número de entidades que se han especializado en analizar este tipo de información, no es exagerado pensar que en las próximas décadas podamos alcanzar conclusiones mucho más sólidas que las que tenemos ahora, y quizás, con el tiempo, incluso podríamos ser capaces de predecir y parcialmente controlar el clima terrestre.
 
@@ -157,6 +157,8 @@ Si buscas en cualquier diccionario filosófico encontrarás que el *sentido com�
 >Conjunto de ideas, hábitos y formas de pensar que el hombre ha elaborado en su actividad práctica cotidiana.
 
 Aunque los científicos no son ajenos a esta forma de pensar, de hecho suelen hacer buen uso del *sentido común* en sus tareas investigadoras, la Ciencia es perfectamente independiente de él, y *la Naturaleza* nos ha enseñado en múltiples ocasiones que prescinde absolutamente de los paradigmas humanos, que tiene su propia forma de funcionamiento, en ocasiones extraordinariamente intrincada y contraintuitiva, y que al final es *Ella* la que tiene la última palabra.
+
+[**Listado de argumentos con mínimo contenido científico, que sin embargo deberían inclinar la balanza hacia la neutralidad cuando no directamente al escepticismo o la chirigota**]
 
 # Reflexiones y conclusión
 
