@@ -4,3 +4,7 @@
 [![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
 
 > **Claves para afrontar el debate sobre el Cambio Climático de una manera racional**
+
+---
+
+> *Falta el capítulo 4*
