@@ -35,6 +35,9 @@ library(png)
 
 # Queridos estudiantes
 
+[![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc)
+[![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
+
 El viernes 15 de marzo, como otros jóvenes de muchos países, os habéis manifestado por toda España por el medioambiente y contra el `Cambio Climático`. Os han contado que el comportamiento de los humanos desde la Revolución Industrial ha dañado al planeta, que estamos contaminando de manera irreversible el medioambiente, y que estamos modificando (a peor) el clima.
 
 ```{r planetB, echo=FALSE, fig.align='center', fig.cap="No hay planeta B, en esto estamos todos de acuerdo", out.width=420}
