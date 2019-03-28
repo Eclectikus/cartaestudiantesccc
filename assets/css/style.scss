@@ -1,0 +1,79 @@
+---
+--- 
+
+@import "{{ site.theme }}";
+
+header {
+    background-image: url(https://raw.githubusercontent.com/Eclectikus/notascc/master/assets/images/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 160px;
+    /*CHANGE TO THE HEIGHT OF YOUR BANNER*/
+}
+
+header h1 {
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 1.2;
+    color: #2177e9;
+    letter-spacing: -1px;
+}
+
+header h2 {
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 1.2;
+    color: rgb(9, 155, 223);
+    letter-spacing: -1px;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(14, 4, 56, 0.925);
+    color: rgb(12, 198, 245);
+    text-align: center;
+}
+
+.copy-left {
+    display: inline-block;
+    text-align: right;
+    margin: 0;
+    font-size: 1.25em;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: FlipH;
+    -ms-filter: FlipH;
+}
+
+img {
+    display: block;
+    border-radius: 9%;
+    // max-width: 100%;
+    height: auto;
+    // margin-left: auto;
+    // margin-right: auto;
+}
+
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+.button {
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: rgba(65, 90, 66, 0.685);
+    /* Green */
+    color: white;
+    box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24),
+        0 18px 45px 0 rgba(0, 0, 0, 0.18);
+}
