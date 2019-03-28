@@ -1,6 +1,6 @@
 ---
 title: "15M-Carta a los jóvenes contra el Cambio Climático"
-subtitle: Conceptos y hechos importantes para entender la discusión.
+subtitle: Claves para afrontar el debate sobre el Cambio Climático de una manera racional.
 author: "Eclectikus"
 lang: es-Es
 date: "Marzo de 2019"
