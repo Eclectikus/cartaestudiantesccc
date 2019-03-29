@@ -172,23 +172,27 @@ knitr::include_graphics("figure/2siglos.png")
 
 La contaminación es el principal peaje que pagamos por nuestro modelo de sociedad. Hace décadas que sabemos que la actitud más inteligente es vigilar, controlar, procesar, reciclar y minimizar nuestros deshechos. Y eso hacemos. Cuando se incluyen las emisiones humanas de `CO2` como contaminante se está asumiendo que la hipótesis de que el calentamiento provocado por la contribución humana a las concentraciones atmosféricas de este gas invernadero es apocalíptico, y se está ocultando:
 
-1. Que el `CO2` antrópico es un pequeño porcentaje del `CO2` "*natural*", que a su vez es un pequeño porcentaje de los *gases de efecto invernadero*, que son un pequeño porcentaje de la composición de *la atmósfera*, la cual es una parte esencial pero no única del sistema climático terrestre.
+1. Que el `CO2` antrópico es un pequeño porcentaje del `CO2` "*natural*", que a su vez es un pequeño porcentaje de los *gases de efecto invernadero*, que son un pequeño porcentaje de la composición de *la atmósfera*, la cual es una parte fundamental pero no única del sistema climático terrestre.
 
-2. El `CO2` es un gas esencial para muchos de los organismos con los que compartimos el planeta, y es especialmente beneficioso para el *mundo vegetal*. La concentración en la atmósfera de este gas está alrededor de `400 ppm` (`250-350 ppm` al aire libre), más cerca del mínimo necesario para que respiren (y por lo tanto existan) las plantas (~ `150 ppm`), que de la concentración habitual en una cafetería (~ `1000 ppm`), por no hablar de concentraciones que podríamos considera tóxicas (a partir de `70000 ppm`).
+2. El `CO2` es un gas esencial para muchos de los organismos con los que compartimos el planeta, y es especialmente beneficioso para el *mundo vegetal*. La concentración en la atmósfera de este gas está alrededor de `400 ppm` (`250-350 ppm` al aire libre), más cerca del mínimo necesario para que respiren (y por lo tanto existan) las plantas (~ `150 ppm`), que de la concentración habitual en una cafetería (~ `1000 ppm`), por no hablar de concentraciones que podríamos considerar tóxicas (a partir de `70000 ppm`).
 
-3. La concentración de `CO2`en la atmósfera está mucho más cerca pues del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores de momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
+3. La concentración de `CO2`en la atmósfera está mucho más cerca pues del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores que hubo en momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
 
 ```{r co2yt, echo=FALSE, fig.align='center', fig.cap="La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas", out.width=630}
 knitr::include_graphics("figure/co2yt.png")
 ```
 
-Por tanto, cuando se considera alegremente al `CO2` como un contaminante más, se está otorgando a la hipótesis de que produce un efecto apocalíptico en el clima, del que no hay indicios conocidos, una certeza de la que carece científicamente, y que no es más que un espejismo político totalmente desconectado de la propia Ciencia.
+Por tanto, hay que insistir porque esto pasa siempre desapercibido en los medios:
+
+> cuando se considera alegremente al `CO2` como un contaminante más porque produce un efecto dramático en el clima terrestre, del que en realidad no hay indicios conocidos, se está otorgando a la narrativa del `Cambio Climático` una fiabilidad de la que carece científicamente, y que no es más que un espejismo político totalmente desconectado de la propia Ciencia.
 
 ## ¿Es posible que haya intereses que ignoren la posibilidad de un cataclismo?
 
 ¿Qué quieren, hacer negocios en un país arrasado y si vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar.
 
 ## ¿Por qué se ridiculiza y acosa a los críticos?
+
+
 
 [**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**]
 
