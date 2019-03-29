@@ -145,9 +145,41 @@ Si buscas en cualquier diccionario filosófico encontrarás que el *sentido com�
 
 >Conjunto de ideas, hábitos y formas de pensar que el hombre ha elaborado en su actividad práctica cotidiana.
 
-Aunque los científicos no son ajenos a esta forma de pensar, de hecho suelen hacer buen uso del *sentido común* en sus tareas investigadoras, la Ciencia es perfectamente independiente de él, y *la Naturaleza* nos ha enseñado en múltiples ocasiones que prescinde absolutamente de los paradigmas humanos, que tiene su propia forma de funcionamiento, en ocasiones extraordinariamente intrincada y contraintuitiva, y que al final es *Ella* la que tiene la última palabra.
+Aunque los científicos no son ajenos a esta componente del pensamiento, de hecho suelen hacer buen uso del *sentido común* en sus tareas investigadoras, la Ciencia es perfectamente independiente de él, y *la Naturaleza* nos ha enseñado en múltiples ocasiones que ignora absolutamente los paradigmas humanos, que tiene su propia forma de funcionamiento, en ocasiones extraordinariamente intrincada y contraintuitiva, y que al final es *Ella* la que tiene la última palabra.
 
-[**Listado de argumentos con mínimo contenido científico, que sin embargo deberían inclinar la balanza hacia la neutralidad cuando no directamente al escepticismo o la chirigota**]
+Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diáfana de la realidad. Amenudo tenemos que tomar decisiones sin tener toda la información, configuramos nuestra forma de pensar en los parámetros que nos dicta nuestra experiencia
+
+## ¿Por qué se ocultan los avances (humanos y medioambientales) de los últimos 2 siglos?
+
+Cuando se critican los efectos perniciosos de la revolución industrial del siglo XVIII, y más solapadamente los de la revolución tecnológica del siglo XX, ¿por qué se omiten impunemente las impresionantes ventajas que nos han traído? No es posible hacer un balance equitativo sin la balanza no tiene dos brazos, uno para los inconvenientes, y otro para ventajas innegables como estas:
+
+<div class="figure" style="text-align: center">
+<img src="figure/2siglos.png" alt="Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos." width="570" />
+<p class="caption">Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos.</p>
+</div>
+
+## ¿Por qué se intercambia contaminación y cambio climático sin solución de continuidad?
+
+La contaminación es el principal peaje que pagamos por nuestro modelo de sociedad. Hace décadas que sabemos que la actitud más inteligente es vigilar, controlar, procesar, reciclar y minimizar nuestros deshechos. Y eso hacemos. Cuando se incluyen las emisiones humanas de `CO2` como contaminante se está asumiendo que la hipótesis de que el calentamiento provocado por la contribución humana a las concentraciones atmosféricas de este gas invernadero es apocalíptico, y se está ocultando:
+
+1. Que el `CO2` antrópico es un pequeño porcentaje del `CO2`, que a su vez es un pequeño porcentaje de los *gases de efecto invernadero*, que a su vez son un pequeño porcentaje de la composición de *la atmósfera*.
+
+2. El `CO2` es un gas esencial para muchos de los organismos con los que compartimos el planeta, y es especialmente beneficioso para el *mundo vegetal*.
+
+3. La concentración de `CO2`en la atmósfera está mucho más cerca del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores de momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
+
+<div class="figure" style="text-align: center">
+<img src="figure/co2yt.png" alt="La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas" width="540" />
+<p class="caption">La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas</p>
+</div>
+
+## ¿Es posible que haya intereses que ignoren la posibilidad de un cataclismo?
+
+¿Qué quieren, hacer negocios en un país arrasado y si vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar.
+
+## ¿Por qué se ridiculiza y acosa a los críticos?
+
+[**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**]
 
 # Reflexiones y conclusión
 
