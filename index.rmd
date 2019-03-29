@@ -104,7 +104,7 @@ Por tanto hay que desconfiar cuando alguien se declara experto en clima, especia
 
 ## El clima es un concepto intrínsecamente dinámico
 
-Por un lado se estudia el clima presente, o mejor dicho, los diferentes climas que conocemos en la Tierra (polares, áridos, desérticos, etc... ), y por otro lado se estudia el clima en un contexto geológico y/o planetario. Por un lado se investiga las condiciones reinantes durante una determinada época, y por otro se analizan los mecanismos que producen los cambios, sean regionales o globales, y en definitiva sus causas. Eso obliga a extraer conclusiones de periodos de tiempo que en general transcienden el alcance humano, a veces hablamos del clima en cortos lapsos de tiempo (años, décadas o siglos) pero en general encontraremos que nos hablan de periodos de miles, centenares o millones de años. Hay que tener muy en cuenta además que la calidad de los datos y su resolución disminuye drásticamente según nos alejamos del presente.
+Por un lado se estudia el clima presente, o mejor dicho, los diferentes climas que conocemos en la Tierra (polares, áridos, desérticos, etc... ), y por otro lado se estudia el clima en un contexto geológico y/o planetario. Por un lado se investiga las condiciones reinantes durante una determinada época, y por otro se analizan los mecanismos que producen los cambios, sean regionales o globales, y por tanto sus causas. Eso obliga a extraer conclusiones de periodos de tiempo que en general transcienden el alcance humano, a veces hablamos del clima en cortos lapsos de tiempo (años, décadas o siglos) pero en general encontraremos que nos hablan de periodos de miles, centenares o millones de años. Hay que tener muy en cuenta además que la calidad de los datos y su resolución disminuye drásticamente según nos alejamos del presente.
 
 ```{r nasagif, echo=FALSE, fig.align='center', fig.cap="Animación de la NASA de la Tierra vista desde satélites entre 1997 y 2017", out.width=480}
 knitr::include_graphics("figure/EO_Topicsmollweidecycle.gif")
@@ -158,29 +158,31 @@ Si buscas en cualquier diccionario filosófico encontrarás que el *sentido com�
 
 Aunque los científicos no son ajenos a esta componente del pensamiento, de hecho suelen hacer buen uso del *sentido común* en sus tareas investigadoras, la Ciencia es perfectamente independiente de él, y *la Naturaleza* nos ha enseñado en múltiples ocasiones que ignora absolutamente los paradigmas humanos, que tiene su propia forma de funcionamiento, en ocasiones extraordinariamente intrincada y contraintuitiva, y que al final es *Ella* la que tiene la última palabra.
 
-Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diáfana de la realidad. Amenudo tenemos que tomar decisiones sin tener toda la información, configuramos nuestra forma de pensar en los parámetros que nos dicta nuestra experiencia
+Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diáfana de la realidad. A menudo tenemos que tomar decisiones sin tener toda la información, configuramos nuestra forma de pensar en los parámetros que nos dicta nuestra experiencia, la lógica, y si, "el sentido común".
 
-## ¿Por qué se ocultan los avances (humanos y medioambientales) de los últimos 2 siglos?
+## ¿Por qué se ocultan los avances de los últimos 2 siglos?
 
-Cuando se critican los efectos perniciosos de la revolución industrial del siglo XVIII, y más solapadamente los de la revolución tecnológica del siglo XX, ¿por qué se omiten impunemente las impresionantes ventajas que nos han traído? No es posible hacer un balance equitativo sin la balanza no tiene dos brazos, uno para los inconvenientes, y otro para ventajas innegables como estas:
+Cuando se critican los efectos perniciosos de la revolución industrial del siglo XVIII, y más solapadamente los de la revolución tecnológica del siglo XX, ¿por qué se omiten impunemente las impresionantes ventajas que nos han traído? No es posible hacer un balance equitativo si la balanza no tiene dos brazos, uno para los inconvenientes, y otro para ventajas innegables como estas:
 
 ```{r 2siglos, echo=FALSE, fig.align='center', fig.cap="Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos.", out.width=630}
 knitr::include_graphics("figure/2siglos.png")
 ```
 
-## ¿Por qué se intercambia contaminación y cambio climático sin solución de continuidad?
+## ¿Por qué se confunde contaminación y cambio climático?
 
 La contaminación es el principal peaje que pagamos por nuestro modelo de sociedad. Hace décadas que sabemos que la actitud más inteligente es vigilar, controlar, procesar, reciclar y minimizar nuestros deshechos. Y eso hacemos. Cuando se incluyen las emisiones humanas de `CO2` como contaminante se está asumiendo que la hipótesis de que el calentamiento provocado por la contribución humana a las concentraciones atmosféricas de este gas invernadero es apocalíptico, y se está ocultando:
 
-1. Que el `CO2` antrópico es un pequeño porcentaje del `CO2`, que a su vez es un pequeño porcentaje de los *gases de efecto invernadero*, que a su vez son un pequeño porcentaje de la composición de *la atmósfera*.
+1. Que el `CO2` antrópico es un pequeño porcentaje del `CO2` "*natural*", que a su vez es un pequeño porcentaje de los *gases de efecto invernadero*, que son un pequeño porcentaje de la composición de *la atmósfera*, la cual es una parte esencial pero no única del sistema climático terrestre.
 
-2. El `CO2` es un gas esencial para muchos de los organismos con los que compartimos el planeta, y es especialmente beneficioso para el *mundo vegetal*.
+2. El `CO2` es un gas esencial para muchos de los organismos con los que compartimos el planeta, y es especialmente beneficioso para el *mundo vegetal*. La concentración en la atmósfera de este gas está alrededor de `400 ppm` (`250-350 ppm` al aire libre), más cerca del mínimo necesario para que respiren (y por lo tanto existan) las plantas (~ `150 ppm`), que de la concentración habitual en una cafetería (~ `1000 ppm`), por no hablar de concentraciones que podríamos considera tóxicas (a partir de `70000 ppm`).
 
-3. La concentración de `CO2`en la atmósfera está mucho más cerca del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores de momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
+3. La concentración de `CO2`en la atmósfera está mucho más cerca pues del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores de momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
 
 ```{r co2yt, echo=FALSE, fig.align='center', fig.cap="La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas", out.width=630}
 knitr::include_graphics("figure/co2yt.png")
 ```
+
+Por tanto, cuando se considera alegremente al `CO2` como un contaminante más, se está otorgando a la hipótesis de que produce un efecto apocalíptico en el clima, del que no hay indicios conocidos, una certeza de la que carece científicamente, y que no es más que un espejismo político totalmente desconectado de la propia Ciencia.
 
 ## ¿Es posible que haya intereses que ignoren la posibilidad de un cataclismo?
 
