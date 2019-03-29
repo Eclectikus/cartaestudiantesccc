@@ -162,9 +162,11 @@ Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diá
 
 ## ¿Por qué se ocultan los avances (humanos y medioambientales) de los últimos 2 siglos?
 
-Cuando se critican los efectos perniciosos de la revolución industrial del siglo XVIII, y más solapadamente los de la revolución tecnológica del siglo XX, ¿por qué se omiten impunemente las impresionantes ventajas que nos han traído?
+Cuando se critican los efectos perniciosos de la revolución industrial del siglo XVIII, y más solapadamente los de la revolución tecnológica del siglo XX, ¿por qué se omiten impunemente las impresionantes ventajas que nos han traído? No es posible hacer un balance equitativo sin la balanza no tiene dos brazos, uno para los inconvenientes, y otro para las ventajas
 
-
+```{r 2siglos, echo=FALSE, fig.align='center', fig.cap="Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos.", out.width=570}
+knitr::include_graphics("figure/2siglos.png")
+```
 
 ## ¿Por qué se intercambia contaminación y cambio climático sin solución de continuidad?
 
