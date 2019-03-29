@@ -154,7 +154,7 @@ Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diá
 Cuando se critican los efectos perniciosos de la revolución industrial del siglo XVIII, y más solapadamente los de la revolución tecnológica del siglo XX, ¿por qué se omiten impunemente las impresionantes ventajas que nos han traído? No es posible hacer un balance equitativo sin la balanza no tiene dos brazos, uno para los inconvenientes, y otro para ventajas innegables como estas:
 
 <div class="figure" style="text-align: center">
-<img src="figure/2siglos.png" alt="Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos." width="570" />
+<img src="figure/2siglos.png" alt="Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos." width="630" />
 <p class="caption">Los últimos dos siglos han sido especialmente turbulentos, pero han sido también muy productivos.</p>
 </div>
 
@@ -169,7 +169,7 @@ La contaminación es el principal peaje que pagamos por nuestro modelo de socied
 3. La concentración de `CO2`en la atmósfera está mucho más cerca del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores de momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
 
 <div class="figure" style="text-align: center">
-<img src="figure/co2yt.png" alt="La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas" width="540" />
+<img src="figure/co2yt.png" alt="La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas" width="630" />
 <p class="caption">La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas</p>
 </div>
 
