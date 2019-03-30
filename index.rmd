@@ -158,7 +158,9 @@ Si buscas en cualquier diccionario filosófico encontrarás que el *sentido com�
 
 Aunque los científicos no son ajenos a esta componente del pensamiento, de hecho suelen hacer buen uso del *sentido común* en sus tareas investigadoras, la Ciencia es perfectamente independiente de él, y *la Naturaleza* nos ha enseñado en múltiples ocasiones que ignora absolutamente los paradigmas humanos, que tiene su propia forma de funcionamiento, en ocasiones extraordinariamente intrincada y contraintuitiva, y que al final es *Ella* la que tiene la última palabra.
 
-Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diáfana de la realidad. A menudo tenemos que tomar decisiones sin tener toda la información, configuramos nuestra forma de pensar en los parámetros que nos dicta nuestra experiencia, la lógica, y si, "el sentido común".
+Pero tampoco podemos esperar a que la Ciencia tenga una respuesta precisa y diáfana de la realidad. A menudo tenemos que tomar decisiones sin información suficiente, entonces configuramos nuestra forma de pensar en los parámetros que nos dicta nuestra experiencia, la lógica, y si, también "el sentido común".
+
+A continuación vienen unas pocas preguntas que se enmarcan en esa línea de razonamiento.
 
 ## ¿Por qué se ocultan los avances de los últimos 2 siglos?
 
@@ -170,7 +172,9 @@ knitr::include_graphics("figure/2siglos.png")
 
 ## ¿Por qué se confunde contaminación y cambio climático?
 
-La contaminación es el principal peaje que pagamos por nuestro modelo de sociedad. Hace décadas que sabemos que la actitud más inteligente es vigilar, controlar, procesar, reciclar y minimizar nuestros deshechos. Y eso hacemos. Cuando se incluyen las emisiones humanas de `CO2` como contaminante se está asumiendo que la hipótesis de que el calentamiento provocado por la contribución humana a las concentraciones atmosféricas de este gas invernadero es apocalíptico, y se está ocultando:
+La contaminación es el principal peaje que pagamos por nuestro modelo de sociedad. Hace décadas que sabemos que la actitud más inteligente es vigilar, controlar, procesar, reciclar y minimizar nuestros deshechos. Y eso hacemos.
+
+Cuando se incluyen las emisiones humanas de `CO2` como contaminantes, se está asumiendo que la hipótesis de que el calentamiento provocado por estas (muy difícil de medir, si es que se puede medir) es apocalíptico. Y a la vez se está ocultando:
 
 1. Que el `CO2` antrópico es un pequeño porcentaje del `CO2` "*natural*", que a su vez es un pequeño porcentaje de los *gases de efecto invernadero*, que son un pequeño porcentaje de la composición de *la atmósfera*, la cual es una parte fundamental pero no única del sistema climático terrestre.
 
@@ -186,15 +190,23 @@ Por tanto, hay que insistir porque esto pasa siempre desapercibido en los medios
 
 > cuando se considera alegremente al `CO2` como un contaminante más porque produce un efecto dramático en el clima terrestre, del que en realidad no hay indicios conocidos, se está otorgando a la narrativa del `Cambio Climático` una fiabilidad de la que carece científicamente, y que no es más que un espejismo político totalmente desconectado de la propia Ciencia.
 
-## ¿Es posible que haya intereses que ignoren la posibilidad de un cataclismo?
+## ¿Es posible que haya colectivos que ignoren la posibilidad de un cataclismo?
 
 ¿Qué quieren, hacer negocios en un país arrasado y si vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar.
 
-## ¿Por qué se ridiculiza y acosa a los críticos?
+## ¿Por qué se abusa de la retórica?
+
+En el debate político, mucho menos o nada en el científico, la retórica es una herramienta clave para transmitir mensajes, o ideologías. La exageración y la falacia son recursos habituales, rompen la consistencia lógica del debate, pero consiguen su objetivo, convencer y conseguir mayorías (*consensos*) en torno a intereses particulares o colectivos.
+
+El debate del `Cambio Climático`, como debate político que es, no es ajeno a esto. A continuación un manojo de falacias ampliamente utilizadas:
 
 
+
+---
 
 [**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**]
+
+---
 
 # Reflexiones y conclusión
 
