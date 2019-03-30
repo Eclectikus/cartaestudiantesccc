@@ -195,11 +195,19 @@ Si estuviéramos ante una emergencia real, patente y relativamente inmediata (po
 
 ## ¿Por qué se abusa de la retórica?
 
-En el debate político, mucho menos o nada en el científico, la retórica es una herramienta clave para transmitir mensajes, o ideologías. La exageración y la falacia son recursos habituales, rompen la consistencia lógica del debate, pero consiguen su objetivo, convencer y conseguir mayorías (*consensos*) en torno a intereses particulares o colectivos.
+En el debate político, mucho menos o nada en el científico, la retórica es una herramienta clave para transmitir mensajes, o ideologías. La exageración y la falacia son recursos habituales, rompen la consistencia lógica del debate, pero consiguen su objetivo, convencer y conseguir mayorías (*consensos*) en torno a intereses particulares o colectivos. Mientras que *la Ciencia* ha conseguido definir implícita o explícitamente unas normas para no caer en este tipo de trampas lógicas, *la política* se ha especalizado justo en lo contrario, en utilizarlas a granel para vender sus mensajes.
+
+<div class="figure" style="text-align: center">
+<img src="figure/yesno.png" alt="El sesgo de confirmación, la tendencia a creer más a lo que encaja con nuestros prejuicios, ha de ser siempre tenido en cuenta" width="570" />
+<p class="caption">El sesgo de confirmación, la tendencia a creer más a lo que encaja con nuestros prejuicios, ha de ser siempre tenido en cuenta</p>
+</div>
 
 El debate del `Cambio Climático`, como debate político que es, no es ajeno a esto. A continuación un manojo de falacias ampliamente utilizadas:
 
-
+* El *argumento ad populum* (la opinión de "la mayoría") y la *falacia de autoridad* (la opinión de "los expertos") son el pan nuestro de cada día. Es lógico que pase desapercibido en el sentido de que en un tema tan complejo como es el clima de la Tierra, una conjunción de ambas falacias ("*la mayoría de los expertos*"), configura un argumento sólido y difícil de rebatir. Los punto flacos de tal combinación son que:
+    1. Es muy difícil medir cuántos y qué expertos coinciden sobre qué asuntos específicos y en que medida, algo que en última instancia es totalmente irrelevante porque,
+    2. la autoridad y el consenso son conceptos ajenos al método científico, y no añaden nada al conocimiento de la realidad.
+* La falacia del *hombre de paja* (esencialmente rebatir lo que no se discute) es especialmente visible cuando se acusa a los críticos del alarmismo de dudar de que el Clima de la Tierra cambia, algo que nadie podría poner en tela de juicio. 
 
 ---
 
