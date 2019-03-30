@@ -110,7 +110,7 @@ Hay que tener en cuenta que la información que recolectamos es siempre indirect
 <p class="caption">Las burbujas de aire atrapadas en las muestras de hielo antártico son un método fiable para inferir la concentración de gases en la atmósfera hace cientos o miles de años</p>
 </div>
 
-Los científicos han aprendido mucho durante los últimos siglos, son muy hábiles a la hora de evitar el autoengaño, y lo primero que analizan siempre son las limitaciones de sus modelos y las lagunas conceptuales o prácticas de sus estudios. Así que de nuevo, cuando alguien ofusca esta realidad respecto a la incertidumbre en sus conclusiones, o de sus predicciones, desconfía automáticamente.
+Los científicos han aprendido mucho durante los últimos siglos, son muy hábiles a la hora de evitar el autoengaño, y lo primero que analizan siempre son las limitaciones de sus modelos y las lagunas conceptuales o prácticas de sus estudios. Así que de nuevo, cuando alguien disimule las incertidumbres y los puntos flacos de su teoría, o de sus conclusiones, o de sus predicciones, desconfía automáticamente.
 
 ## La climatología no es predictiva, de momento
 
@@ -214,9 +214,37 @@ El debate del `Cambio Climático`, como debate político que es, no es ajeno a e
 
 ---
 
-[**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**]
+[**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**] - Ejemplo de colaboración - [![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/cartaestudiantesccc/issues/new/choose)
 
 ---
+
+## ¿Por que se ofuscan las (temibles) implicaciones de un mundo sin hidrocarburos?
+
+Para mi es un misterio. Es el gran misterio de mi generación, por qué gente que se ha criado en la era de la información, que se ha salvado por los pelos del terror del siglo XX (incluyendo montones de guerras con mención especial a las dos Guerras Mundiales), que tiene a un click información con la que no podrían contar ni en sueños Aristóteles, Copérnico, Newton, Darwin o Einstein, abrazan ideologías, cosmovisiones y milenarismos no muy distintos de los que debían abundar entre los Neandertales.
+
+No se puede evaluar el presente sin saber de dónde venimos, sin asumir nuestro defectos y reconocer nuestras glorias. Y entre nuestros mayores triunfos como especie, es haber evolucionado en unas pocas decenas de miles de años hacia una sociedad compleja, inteligente, consciente de nuestro papel en el entorno, y con un fascinante mosaico de culturas que conviven razonablemente bien.
+
+Todo ha evolucionado muy despacio hasta hace tres o cuatro siglos, lo que llaman a veces despectivamente la *Revolución Industrial* es producto de un refinamiento en nuestra manera de pensar, de analizar la realidad, hasta conseguir acceder a la intimidad del funcionamiento de *la Naturaleza*, y finalmente entender en buena parte nuestro papel en el Universo.
+
+Por supuesto no es un mundo perfecto, hay crímenes, avaricia, odio, demencia, depravación, sectarismo, injusticias, enfermedades, accidentes, es un mundo imperfecto. Pero hay que ser muy obcecado para no reconocer los avances de los últimos siglos, colofón a una amalgama de conocimientos derivados de muy diferentes contextos y culturas, especialmente de los últimos 5000 años. Y no reconocer que esta importante mejora se debe en gran parte a nuestro aprendizaje del uso de las fuentes de energía a nuestra disposición, es una muestra de ceguera que es difícilmente clasificable fuera de la psiquiatría.
+
+Por supuesto los combustibles fósiles contaminan, aunque cada vez menos porque hay mucha gente que se deja las cejas para minimizar los efectos secundarios, pero es necesario recordar las impresionantes ventajas, cómo han mejorado la vida de muchas personas, y cómo son parte esencial precisamente en la búsqueda de fuentes de energías alternativas, renovables y limpias. Pensar que estamos preparados para un mix energético equivalente al que se usaba en el siglo XVII en el siglo XXI, es una estupidez, una quimera, o una broma de mal gusto. Lo que prefieras.
+
+
+## El dilema moral
+
+Supongamos que efectivamente llegamos a la conclusión (surrealista) de que el `CO2` antrópico es el único factor que regula el clima del planeta. Reconozcamos que la mayor parte de las emisiones de *gases invernadero* durante el siglo XX provienen de los países occidentales encabezados por Norteamérica y Europa, y que es precisamente ese acceso a la energía barata lo que nos ha permitido un desarrollo y una calidad de vida muy por encima de la media global. Disimulemos por un momento que tal desarrollo ha sido asimétrico, especialmente *hemisferio norte* vs. *hemisferio sur*, y que en gran parte ha habido un trasvase desequilibrado de unos países a otros. Aislemos esas circunstancias del sistema de referencia, y aún así, preguntémonos:
+
+>¿Tenemos la dureza de cara y la autoridad moral suficiente para coartar el crecimiento de países que se encuentran hoy en *vía de desarrollo*, cuya responsabilidad en las concentraciones actuales de `CO2` son despreciables, y que de ninguna manera se pueden permitir de momento sustituir los carromatos, camiones, centrales térmicas, gasolinas, gasóleos o gas natural por tecnologías mucho más caras e ineficientes?
+
+La respuesta es evidentemente NO. Y por eso países como China o India, que son cerca de la mitad de la población actual del planeta, siguen utilizando, planificando y construyendo centrales termoeléctricas, y lo seguirán haciendo hasta bien entrado el siglo.
+
+¿Realmente alguien cree que las reducciones en "las emisiones" de un país marginal como España significan algo para la temperatura global media de la Tierra? Lo siento, demasiado especulativo, poco sólido y por tanto difícilmente asimilable.
+
+<div class="figure" style="text-align: center">
+<img src="figure/emisoresco2.png" alt="España está bien por debajo del *1%* de las emisiones de CO2" width="600" />
+<p class="caption">España está bien por debajo del *1%* de las emisiones de CO2</p>
+</div>
 
 # Reflexiones y conclusión
 
@@ -249,4 +277,4 @@ He evitado llenar el artículo de enlaces y referencias porque he querido manten
 
 Muchas gracias por leer.
 
-Eclectikus
+> **Eclectikus**
