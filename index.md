@@ -183,7 +183,15 @@ Por tanto, hay que insistir porque esto pasa siempre desapercibido en los medios
 
 ## ¿Es posible que haya colectivos que ignoren la posibilidad de un cataclismo?
 
-¿Qué quieren, hacer negocios en un país arrasado y si vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar.
+¿Qué quieren, hacer negocios en un país arrasado y sin vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar. Literalmente a nadie en su sano juicio le interesa arrasar el planeta.
+
+
+<div class="figure" style="text-align: center">
+<img src="figure/darthvader.png" alt="OK, Darth Vader si tiene inclinación a destruir planetas, pero es un personaje, no una persona" width="570" />
+<p class="caption">OK, Darth Vader si tiene inclinación a destruir planetas, pero es un personaje, no una persona</p>
+</div>
+
+Si estuviéramos ante una emergencia real, patente y relativamente inmediata (por ejemplo antes de acabar el siglo), lo más probable es que se diluyeran casi todos los problemas geopolíticos del mundo, y los humanos trabajaran coordinadamente para superar tal crisis. No se me ocurre un escenario diferente.
 
 ## ¿Por qué se abusa de la retórica?
 
