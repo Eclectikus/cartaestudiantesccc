@@ -122,7 +122,7 @@ Hay que tener en cuenta que la información que recolectamos es siempre indirect
 knitr::include_graphics("figure/Bubbles_in_Ice.png")
 ```
 
-Los científicos han aprendido mucho durante los últimos siglos, son muy hábiles a la hora de evitar el autoengaño, y lo primero que analizan siempre son las limitaciones de sus modelos y las lagunas conceptuales o prácticas de sus estudios. Así que de nuevo, cuando alguien ofusca esta realidad respecto a la incertidumbre en sus conclusiones, o de sus predicciones, desconfía automáticamente.
+Los científicos han aprendido mucho durante los últimos siglos, son muy hábiles a la hora de evitar el autoengaño, y lo primero que analizan siempre son las limitaciones de sus modelos y las lagunas conceptuales o prácticas de sus estudios. Así que de nuevo, cuando alguien disimule las incertidumbres y los puntos flacos de su teoría, o de sus conclusiones, o de sus predicciones, desconfía automáticamente.
 
 ## La climatología no es predictiva, de momento
 
@@ -224,6 +224,27 @@ El debate del `Cambio Climático`, como debate político que es, no es ajeno a e
 [**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**]
 
 ---
+
+## ¿Por que se ofuscan las (temibles) implicaciones de un mundo sin hidrocarburos?
+
+Para mi es un misterio. Es el gran misterio de mi generación, por qué gente que se ha criado en la era de la información, que se ha salvado por los pelos del terror del siglo XX (incluyendo montones de guerras con mención especial a las dos Guerras Mundiales), que tiene a un click información con la que no podrían contar ni en sueños Aristóteles, Copérnico, Newton, Darwin o Einstein, abrazan ideologías, cosmovisiones y milenarismos no muy distintos de los que debían abundar entre los Neandentales. No se puede evaluar el presente sin saber de dónde venimos, sin asumir nuestro defectos y reconocer nuestras glorias. Y entre nuestros mayores triunfos como especie, es haber evolucionado en unas pocas decenas de miles de años hacia una sociedad compleja, inteligente, consciente de nuestro papel en el entorno, y con un fascinante mosaico de culturas que conviven razonablemente bien.
+
+Todo ha evolucionado muy despacio hasta hace tres o cuatro siglos, lo que llaman a veces despectivamente la *Revolución Industrial* es producto de un refinamiento en la manera de pensar, de analizar la realidad, hasta conseguir acceder a la intimidad del funcionamiento de *la Naturaleza*, y finalmente entender en buena parte nuestro papel en el Universo. 
+
+
+## El dilema moral
+
+Supongamos que efectivamente llegamos a la conclusión (surrealista) de que el `CO2` antrópico es el único factor que regula el clima del planeta. Reconozcamos que la mayor parte de las emisiones de *gases invernadero* durante el siglo XX provienen de los países occidentales encabezados por Norteamérica y Europa, y que es precisamente ese acceso a la energía barata lo que nos ha permitido un desarrollo y una calidad de vida muy por encima de la media global. Disimulemos por un momento que tal desarrollo ha sido asimétrico, especialmente *hemisferio norte* vs. *hemisferio sur*, y que en gran parte ha habido un trasvase desequilibrado de unos países a otros. Aislemos esas circunstancias del sistema de referencia, y aún así, preguntémonos:
+
+>¿Tenemos la dureza de cara y la autoridad moral suficiente para coartar el crecimiento de países que se encuentran hoy en *vía de desarrollo*, cuya responsabilidad en las concentraciones actuales de `CO2` son despreciables, y que de ninguna manera se pueden permitir de momento sustituir los carromatos, camiones, centrales térmicas, gasolinas, gasóleos o gas natural por tecnologías mucho más caras e ineficientes?
+
+La respuesta es evidentemente NO. Y por eso países como China o India, que son cerca de la mitad de la población actual del planeta, siguen utilizando, planificando y construyendo centrales termoeléctricas, y lo seguirán haciendo hasta bien entrado el siglo.
+
+¿Realmente alguien cree que las reducciones en "las emisiones" de un país marginal como España significan algo para la temperatura global media de la Tierra? Lo siento, demasiado especulativo, poco sólido y por tanto difícilmente asimilable.
+
+```{r emisoresco2, echo=FALSE, fig.align='center', fig.cap="España está bien por debajo del *1%* de las emisiones de CO2", out.width=600}
+knitr::include_graphics("figure/emisoresco2.png")
+```
 
 # Reflexiones y conclusión
 
