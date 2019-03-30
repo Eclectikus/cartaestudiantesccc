@@ -1,6 +1,6 @@
 ---
 name: Informe de error
-about: Corregir errores ayuda
+about: Corregir errores ayuda siempre
 title: "[ERROR]"
 labels: bug
 assignees: Eclectikus
