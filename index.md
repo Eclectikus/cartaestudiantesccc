@@ -241,12 +241,6 @@ La respuesta es evidentemente NO. Y por eso países como China o India, que son 
 <p class="caption">España está bien por debajo del *1%* de las emisiones de CO2</p>
 </div>
 
----
-
-[**... añadir argumentos no específicamente científicos, pero que sin embargo deberían inclinar al ciudadano de a pie hacia la neutralidad cuando no directamente al escepticismo, o la chirigota.**] - Ejemplo de colaboración - [![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/cartaestudiantesccc/issues/new/choose)
-
----
-
 # Reflexiones y conclusión
 
 Como escribía al principio, somos la primera especie del planeta que es capaz de prevenir y eventualmente eliminar algunas de las mayores catástrofes que ha sufrido el planeta (o sus huéspedes) a lo largo de la historia geológica. Algunas, pero no todas. Tenemos que entender nuestra insignificancia en términos geológicos (no digamos en tiempos cosmológicos), y que vivimos en un universo y en un planeta en los que el riesgo de hecatombe es pequeño pero no *CERO*. Por ejemplo:
