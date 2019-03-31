@@ -21,6 +21,7 @@ output:
 
 [![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc)
 [![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
+[![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/cartaestudiantesccc/issues)
 
 El viernes 15 de marzo, como otros jóvenes de muchos países, os habéis manifestado por toda España por el medioambiente y contra el `Cambio Climático`. Os han contado que el comportamiento de los humanos desde la Revolución Industrial ha dañado al planeta, que estamos contaminando de manera irreversible el medioambiente, y que estamos modificando (a peor) el clima.
 
@@ -183,7 +184,7 @@ Por tanto, hay que insistir porque esto pasa siempre desapercibido en los medios
 
 ## ¿Es posible que haya colectivos que ignoren la posibilidad de un cataclismo?
 
-¿Qué quieren, hacer negocios en un país arrasado y sin vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar. Literalmente, a nadie en su sano juicio le interesa arrasar el planeta en el que vive.
+¿Qué quieren, hacer negocios en un mundo arrasado y sin vida? No, amigos, excepto en la ficción, no hay villanos que quieran destruir el mundo. Bien, puede haberlos, pero es muy difícil que obtengan un nivel de poder que les permita salirse con la suya. Con esos planteamientos es más fácil que terminen en un psiquiátrico o en una cárcel, su producto no se puede comercializar. Literalmente, a nadie en su sano juicio le interesa arrasar el planeta en el que vive.
 
 
 <div class="figure" style="text-align: center">
@@ -216,7 +217,7 @@ El debate del `Cambio Climático`, como debate político que es, no es ajeno a e
 
 Para mi es un misterio. Es el gran misterio de mi generación, por qué gente que se ha criado en la era de la información, que se ha salvado por los pelos del terror del siglo XX (incluyendo montones de guerras con mención especial a las dos Guerras Mundiales), que tiene a un click información con la que no podrían contar ni en sueños Aristóteles, Copérnico, Newton, Darwin o Einstein, abrazan ideologías, cosmovisiones y milenarismos no muy distintos de los que debían abundar entre los Neandertales.
 
-No se puede evaluar el presente sin saber de dónde venimos, sin asumir nuestro defectos y reconocer nuestras glorias. Y entre nuestros mayores triunfos como especie, es haber evolucionado en unas pocas decenas de miles de años hacia una sociedad compleja, inteligente, consciente de nuestro papel en el entorno, y con un fascinante mosaico de culturas que conviven razonablemente bien.
+No se puede evaluar el presente sin saber de dónde venimos, sin asumir nuestros defectos y reconocer nuestras glorias. Y entre nuestros mayores triunfos como especie, es haber evolucionado en unas pocas decenas de miles de años hacia una sociedad compleja, inteligente, consciente de nuestro papel en el entorno, y con un fascinante mosaico de culturas que conviven razonablemente bien.
 
 Todo ha evolucionado muy despacio hasta hace tres o cuatro siglos, lo que llaman a veces despectivamente la *Revolución Industrial* es producto de un refinamiento en nuestra manera de pensar, de analizar la realidad, hasta conseguir acceder a la intimidad del funcionamiento de *la Naturaleza*, y finalmente entender en buena parte nuestro papel en el Universo.
 
@@ -269,6 +270,8 @@ Por eso no hay nada más importante para el planeta, y para todos sus moradores,
 
 Por tanto queridos jóvenes, ser escéptico respecto al alarmismo climático y a las soluciones que algunos proponen, es esféricamente racional, perfectamente moral y fácilmente defendible si consigues no dejarte amedrentar por las falacias de autoridad (lo dicen *los científicos*) que al final es el único argumento que se maneja en la arena del `Cambio Climático`.
 
+---
+
 # Sobre este escrito
 
 Aunque el título indica que es una carta a los estudiantes, la redacción está enfocada para que sirva de introducción para cualquier individuo sin formación técnica. Creo honestamente que cualquier persona con una cultura media, y a partir de cierto umbral de pensamiento crítico, debe ser capaz de tener una idea razonablemente precisa de la esencia del debate y de sus claves, y por tanto debería ser lo suficientemente equilibrado como para situarse en el lado correcto del debate, que desde luego no es el frente alarmista.
@@ -277,4 +280,12 @@ He evitado llenar el artículo de enlaces y referencias porque he querido manten
 
 Muchas gracias por leer.
 
-> **Eclectikus**
+[**Eclectikus**](https://eclectikus.github.io/)
+
+---
+
+[![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc)
+[![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
+[![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/cartaestudiantesccc/issues)
+
+---
