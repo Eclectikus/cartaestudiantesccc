@@ -6,5 +6,3 @@
 > **Claves para afrontar el debate sobre el Cambio Climático de una manera racional**
 
 ---
-
-> *Falta el capítulo 4*

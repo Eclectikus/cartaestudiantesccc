@@ -171,7 +171,7 @@ Cuando se incluyen las emisiones humanas de `CO2` como contaminantes, se está a
 
 2. El `CO2` es un gas esencial para muchos de los organismos con los que compartimos el planeta, y es especialmente beneficioso para el *mundo vegetal*. La concentración en la atmósfera de este gas está alrededor de `400 ppm` (`250-350 ppm` al aire libre), más cerca del mínimo necesario para que respiren (y por lo tanto existan) las plantas (~ `150 ppm`), que de la concentración habitual en una cafetería (~ `1000 ppm`), por no hablar de concentraciones que podríamos considerar tóxicas (a partir de `70000 ppm`).
 
-3. La concentración de `CO2`en la atmósfera está mucho más cerca pues del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores que hubo en momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
+3. La concentración de `CO2`en la atmósfera está mucho más cerca pues del mínimo necesario para la vida que de valores que pudiéramos considerar peligrosos. Y muy lejos también de los máximos alcanzados a lo largo de la historia del planeta, singularmente los valores que hubo en momentos claves para el desarrollo de la vida como fue la *explosión cámbrica* hace 540 millones de años.
 
 <div class="figure" style="text-align: center">
 <img src="figure/co2yt.png" alt="La tierra aguanta muy bien temperaturas más altas y más bajas, y también concentraciones de CO2 mucho más altas" width="630" />
