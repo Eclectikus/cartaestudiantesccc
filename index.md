@@ -19,7 +19,7 @@ output:
 
 # Queridos estudiantes
 
-[![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc)
+<!-- [![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc) -->
 [![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
 [![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/cartaestudiantesccc/issues)
 
@@ -278,7 +278,7 @@ Muchas gracias por leer.
 
 ---
 
-[![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc)
+<!-- [![Estado](https://img.shields.io/badge/ESTADO-Borrador-lightgrey.svg)](https://github.com/Eclectikus/cartaestudiantesccc) -->
 [![Estado](https://img.shields.io/badge/Publicado-green.svg)](https://eclectikus.github.io/cartaestudiantesccc/)
 [![Mantenimiento](https://img.shields.io/badge/Sugerencias-si-green.svg)](https://github.com/Eclectikus/cartaestudiantesccc/issues)
 
