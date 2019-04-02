@@ -204,7 +204,7 @@ Si estuviéramos ante una emergencia real, patente y relativamente inmediata (po
 
 ## ¿Por qué se abusa de la retórica?
 
-En el debate político, mucho menos o nada en el científico, la retórica es una herramienta clave para transmitir mensajes, o ideologías. La exageración y la falacia son recursos habituales, rompen la consistencia lógica del debate, pero consiguen su objetivo, convencer y conseguir mayorías (*consensos*) en torno a intereses particulares o colectivos. Mientras que *la Ciencia* ha conseguido definir implícita o explícitamente unas normas para no caer en este tipo de trampas lógicas, *la política* se ha especalizado justo en lo contrario, en utilizarlas sin complejos para vender sus mensajes.
+En el debate político, mucho menos o nada en el científico, la retórica es una herramienta clave para transmitir mensajes, o ideologías. La exageración y la falacia son recursos habituales, rompen la consistencia lógica del debate, pero consiguen su objetivo, convencer y conseguir mayorías (*consensos*) en torno a intereses particulares o colectivos. Mientras que *la Ciencia* ha conseguido definir implícita o explícitamente unas normas para no caer en este tipo de trampas lógicas, *la política* se ha especializado justo en lo contrario, en utilizarlas sin complejos para vender sus mensajes.
 
 ```{r sesgoconf, echo=FALSE, fig.align='center', fig.cap="El sesgo de confirmación, la tendencia a creer más lo que encaja con nuestros prejuicios, ha de ser siempre tenido en cuenta", out.width=570}
 knitr::include_graphics("figure/yesno.png")
